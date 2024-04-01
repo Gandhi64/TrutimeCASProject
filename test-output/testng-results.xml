@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="18" passed="18" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-01T08:57:12 IST" name="Suite" finished-at="2024-04-01T08:58:35 IST" duration-ms="83082">
+    <groups>
+    </groups>
+    <test started-at="2024-04-01T08:57:12 IST" name="chromeTest" finished-at="2024-04-01T08:57:52 IST" duration-ms="40342">
+      <class name="testCases.TC_008_VerifyBackDate">
+        <test-method signature="verifyLast15Days()[pri:0, instance:testCases.TC_008_VerifyBackDate@183ec003]" started-at="2024-04-01T08:57:46 IST" name="verifyLast15Days" finished-at="2024-04-01T08:57:46 IST" duration-ms="40" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLast15Days -->
+      </class> <!-- testCases.TC_008_VerifyBackDate -->
+      <class name="testCases.TC_004_ClickOnTruTime">
+        <test-method signature="verifyTruTime()[pri:0, instance:testCases.TC_004_ClickOnTruTime@6440112d]" started-at="2024-04-01T08:57:44 IST" name="verifyTruTime" finished-at="2024-04-01T08:57:44 IST" duration-ms="694" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTruTime -->
+      </class> <!-- testCases.TC_004_ClickOnTruTime -->
+      <class name="testCases.TC_003_InputBox">
+        <test-method signature="enterInput(java.lang.String)[pri:0, instance:testCases.TC_003_InputBox@5890e879]" started-at="2024-04-01T08:57:41 IST" name="enterInput" finished-at="2024-04-01T08:57:44 IST" duration-ms="2294" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterInput -->
+      </class> <!-- testCases.TC_003_InputBox -->
+      <class name="testCases.TC_007_VerifyMonthAndYear">
+        <test-method signature="verifyPresentMonYear()[pri:0, instance:testCases.TC_007_VerifyMonthAndYear@7c137fd5]" started-at="2024-04-01T08:57:46 IST" name="verifyPresentMonYear" finished-at="2024-04-01T08:57:46 IST" duration-ms="44" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPresentMonYear -->
+      </class> <!-- testCases.TC_007_VerifyMonthAndYear -->
+      <class name="testCases.TC_002_OneCognizantPage">
+        <test-method signature="navigateToOneC()[pri:0, instance:testCases.TC_002_OneCognizantPage@6c284af]" started-at="2024-04-01T08:57:41 IST" name="navigateToOneC" finished-at="2024-04-01T08:57:41 IST" duration-ms="195" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToOneC -->
+      </class> <!-- testCases.TC_002_OneCognizantPage -->
+      <class name="testCases.TC_006_VerifyCurrentDate">
+        <test-method signature="verifyPresentDate()[pri:0, instance:testCases.TC_006_VerifyCurrentDate@231f98ef]" started-at="2024-04-01T08:57:46 IST" name="verifyPresentDate" finished-at="2024-04-01T08:57:46 IST" duration-ms="46" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPresentDate -->
+      </class> <!-- testCases.TC_006_VerifyCurrentDate -->
+      <class name="testCases.TC_009_VerifyLegends">
+        <test-method signature="verifyLast15Days()[pri:0, instance:testCases.TC_009_VerifyLegends@7d9d0818]" started-at="2024-04-01T08:57:46 IST" name="verifyLast15Days" finished-at="2024-04-01T08:57:46 IST" duration-ms="49" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLast15Days -->
+      </class> <!-- testCases.TC_009_VerifyLegends -->
+      <class name="testCases.TC_005_VerifyWeekDetails">
+        <test-method signature="comparingWeek()[pri:0, instance:testCases.TC_005_VerifyWeekDetails@31ea9581]" started-at="2024-04-01T08:57:44 IST" name="comparingWeek" finished-at="2024-04-01T08:57:46 IST" duration-ms="1830" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- comparingWeek -->
+      </class> <!-- testCases.TC_005_VerifyWeekDetails -->
+      <class name="testCases.TC_001_UserInfoTest">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:testCases.TC_001_UserInfoTest@cecf639]" started-at="2024-04-01T08:57:12 IST" name="setUp" finished-at="2024-04-01T08:57:20 IST" duration-ms="7505" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyUserInfoDisplay()[pri:0, instance:testCases.TC_001_UserInfoTest@cecf639]" started-at="2024-04-01T08:57:20 IST" name="verifyUserInfoDisplay" finished-at="2024-04-01T08:57:41 IST" duration-ms="21708" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUserInfoDisplay -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_001_UserInfoTest@cecf639]" started-at="2024-04-01T08:57:46 IST" name="tearDown" finished-at="2024-04-01T08:57:52 IST" duration-ms="5379" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC_001_UserInfoTest -->
+    </test> <!-- chromeTest -->
+    <test started-at="2024-04-01T08:58:00 IST" name="edgetest" finished-at="2024-04-01T08:58:35 IST" duration-ms="34693">
+      <class name="testCases.TC_008_VerifyBackDate">
+        <test-method signature="verifyLast15Days()[pri:0, instance:testCases.TC_008_VerifyBackDate@4e5ed836]" started-at="2024-04-01T08:58:27 IST" name="verifyLast15Days" finished-at="2024-04-01T08:58:27 IST" duration-ms="42" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLast15Days -->
+      </class> <!-- testCases.TC_008_VerifyBackDate -->
+      <class name="testCases.TC_004_ClickOnTruTime">
+        <test-method signature="verifyTruTime()[pri:0, instance:testCases.TC_004_ClickOnTruTime@6cb107fd]" started-at="2024-04-01T08:58:25 IST" name="verifyTruTime" finished-at="2024-04-01T08:58:25 IST" duration-ms="769" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTruTime -->
+      </class> <!-- testCases.TC_004_ClickOnTruTime -->
+      <class name="testCases.TC_003_InputBox">
+        <test-method signature="enterInput(java.lang.String)[pri:0, instance:testCases.TC_003_InputBox@5b799640]" started-at="2024-04-01T08:58:22 IST" name="enterInput" finished-at="2024-04-01T08:58:25 IST" duration-ms="2291" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterInput -->
+      </class> <!-- testCases.TC_003_InputBox -->
+      <class name="testCases.TC_007_VerifyMonthAndYear">
+        <test-method signature="verifyPresentMonYear()[pri:0, instance:testCases.TC_007_VerifyMonthAndYear@2ab4bc72]" started-at="2024-04-01T08:58:27 IST" name="verifyPresentMonYear" finished-at="2024-04-01T08:58:27 IST" duration-ms="68" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPresentMonYear -->
+      </class> <!-- testCases.TC_007_VerifyMonthAndYear -->
+      <class name="testCases.TC_002_OneCognizantPage">
+        <test-method signature="navigateToOneC()[pri:0, instance:testCases.TC_002_OneCognizantPage@4201c465]" started-at="2024-04-01T08:58:22 IST" name="navigateToOneC" finished-at="2024-04-01T08:58:22 IST" duration-ms="166" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToOneC -->
+      </class> <!-- testCases.TC_002_OneCognizantPage -->
+      <class name="testCases.TC_006_VerifyCurrentDate">
+        <test-method signature="verifyPresentDate()[pri:0, instance:testCases.TC_006_VerifyCurrentDate@3de8f619]" started-at="2024-04-01T08:58:27 IST" name="verifyPresentDate" finished-at="2024-04-01T08:58:27 IST" duration-ms="64" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPresentDate -->
+      </class> <!-- testCases.TC_006_VerifyCurrentDate -->
+      <class name="testCases.TC_009_VerifyLegends">
+        <test-method signature="verifyLast15Days()[pri:0, instance:testCases.TC_009_VerifyLegends@eadd4fb]" started-at="2024-04-01T08:58:27 IST" name="verifyLast15Days" finished-at="2024-04-01T08:58:27 IST" duration-ms="48" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLast15Days -->
+      </class> <!-- testCases.TC_009_VerifyLegends -->
+      <class name="testCases.TC_005_VerifyWeekDetails">
+        <test-method signature="comparingWeek()[pri:0, instance:testCases.TC_005_VerifyWeekDetails@710636b0]" started-at="2024-04-01T08:58:25 IST" name="comparingWeek" finished-at="2024-04-01T08:58:27 IST" duration-ms="1847" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- comparingWeek -->
+      </class> <!-- testCases.TC_005_VerifyWeekDetails -->
+      <class name="testCases.TC_001_UserInfoTest">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:testCases.TC_001_UserInfoTest@7a5ceedd]" started-at="2024-04-01T08:58:00 IST" name="setUp" finished-at="2024-04-01T08:58:05 IST" duration-ms="5068" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyUserInfoDisplay()[pri:0, instance:testCases.TC_001_UserInfoTest@7a5ceedd]" started-at="2024-04-01T08:58:05 IST" name="verifyUserInfoDisplay" finished-at="2024-04-01T08:58:22 IST" duration-ms="17183" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUserInfoDisplay -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_001_UserInfoTest@7a5ceedd]" started-at="2024-04-01T08:58:27 IST" name="tearDown" finished-at="2024-04-01T08:58:35 IST" duration-ms="7130" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC_001_UserInfoTest -->
+    </test> <!-- edgetest -->
+  </suite> <!-- Suite -->
+</testng-results>

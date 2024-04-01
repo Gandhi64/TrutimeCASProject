@@ -1,0 +1,50 @@
+11:03:40.718 [TestNG-tests-2] INFO  testCases.TC_001_UserInfoTest - clicking on input box......
+11:03:41.186 [TestNG-tests-1] INFO  testCases.TC_001_UserInfoTest - One Cognizant Page is opened.
+11:03:41.186 [TestNG-tests-1] INFO  testCases.TC_001_UserInfoTest - ***** Finished TC_002_OneCognizantPage  *****
+11:03:41.191 [TestNG-tests-1] INFO  testCases.TC_001_UserInfoTest - ***** Starting TC_003_inputbox *****
+11:03:41.193 [TestNG-tests-1] INFO  testCases.TC_001_UserInfoTest - clicking on input box......
+11:03:57.769 [TestNG-tests-1] ERROR testCases.TC_001_UserInfoTest - test failed.
+11:03:57.784 [TestNG-tests-1] INFO  testCases.TC_001_UserInfoTest - ***** Starting TC_004_ClickOnTruTime *****
+11:03:57.785 [TestNG-tests-1] INFO  testCases.TC_001_UserInfoTest - clicking on true time...
+11:03:57.932 [TestNG-tests-2] INFO  testCases.TC_001_UserInfoTest - input box clicked.
+11:03:57.933 [TestNG-tests-2] INFO  testCases.TC_001_UserInfoTest - ***** Finished TC_003_inputbox *****
+11:03:57.937 [TestNG-tests-2] INFO  testCases.TC_001_UserInfoTest - ***** Starting TC_004_ClickOnTruTime *****
+11:03:57.937 [TestNG-tests-2] INFO  testCases.TC_001_UserInfoTest - clicking on true time...
+11:04:06.961 [TestNG-tests-1] INFO  testCases.TC_001_UserInfoTest - Trutime clicked.
+11:04:06.961 [TestNG-tests-1] INFO  testCases.TC_001_UserInfoTest - ***** Finished TC_004_ClickOnTruTime *****
+11:04:06.964 [TestNG-tests-1] INFO  testCases.TC_001_UserInfoTest - ***** Starting TC_004_ClickOnTruTime *****
+11:04:11.076 [TestNG-tests-2] ERROR testCases.TC_001_UserInfoTest - test failed
+11:04:11.078 [TestNG-tests-2] INFO  testCases.TC_001_UserInfoTest - ***** Starting TC_004_ClickOnTruTime *****
+11:04:12.393 [TestNG-tests-1] INFO  testCases.TC_001_UserInfoTest - Current week details matches with the system calendar
+11:04:12.393 [TestNG-tests-1] INFO  testCases.TC_001_UserInfoTest - ***** Finished TC_005_verifyWeekDetails *****
+11:04:12.395 [TestNG-tests-1] INFO  testCases.TC_001_UserInfoTest - ***** Starting TC_006_VerifyCurrentDate *****
+11:04:12.447 [TestNG-tests-1] ERROR testCases.TC_001_UserInfoTest - Current date is not visible.
+11:04:12.447 [TestNG-tests-1] INFO  testCases.TC_001_UserInfoTest - ***** Finished TC_006_VerifyCurrentDate *****
+11:04:12.449 [TestNG-tests-1] INFO  testCases.TC_001_UserInfoTest - ***** Starting TC_007_VerifyMonthAndYear *****
+11:04:12.510 [TestNG-tests-1] INFO  testCases.TC_001_UserInfoTest - Current month and year are visible.
+11:04:12.511 [TestNG-tests-1] INFO  testCases.TC_001_UserInfoTest - ***** Finished TC_007_VerifyMonthAndYear *****
+11:04:12.514 [TestNG-tests-1] INFO  testCases.TC_001_UserInfoTest - ***** Starting TC_006_VerifyCurrentDate *****
+11:04:12.566 [TestNG-tests-1] INFO  testCases.TC_001_UserInfoTest - Last 15 days is displayed.
+11:04:12.567 [TestNG-tests-1] INFO  testCases.TC_001_UserInfoTest - ***** Finished TC_008_VerifyBackDate *****
+11:04:12.568 [TestNG-tests-1] INFO  testCases.TC_001_UserInfoTest - ***** Starting TC_009_VerifyLegends *****
+11:04:12.646 [TestNG-tests-1] INFO  testCases.TC_001_UserInfoTest - Legends is displayed.
+11:04:12.647 [TestNG-tests-1] INFO  testCases.TC_001_UserInfoTest - ***** Finished TC_009_VerifyLegends *****
+11:04:16.094 [TestNG-tests-2] ERROR testCases.TC_001_UserInfoTest - test failed
+11:04:16.096 [TestNG-tests-2] INFO  testCases.TC_001_UserInfoTest - ***** Starting TC_006_VerifyCurrentDate *****
+11:04:16.097 [TestNG-tests-2] ERROR testCases.TC_001_UserInfoTest - test failed.
+11:04:16.099 [TestNG-tests-2] INFO  testCases.TC_001_UserInfoTest - ***** Starting TC_007_VerifyMonthAndYear *****
+11:04:16.100 [TestNG-tests-2] ERROR testCases.TC_001_UserInfoTest - test failed.
+11:04:16.102 [TestNG-tests-2] INFO  testCases.TC_001_UserInfoTest - ***** Starting TC_006_VerifyCurrentDate *****
+11:04:16.103 [TestNG-tests-2] ERROR testCases.TC_001_UserInfoTest - test failed.
+11:04:16.105 [TestNG-tests-2] INFO  testCases.TC_001_UserInfoTest - ***** Starting TC_009_VerifyLegends *****
+11:04:16.106 [TestNG-tests-2] ERROR testCases.TC_001_UserInfoTest - test failed.
+11:05:47.256 [main] INFO  testCases.TC_001_UserInfoTest - ***** Starting TC_001_UserInfoTest *****
+11:05:59.129 [main] INFO  testCases.TC_001_UserInfoTest - user info is taken.
+11:05:59.129 [main] INFO  testCases.TC_001_UserInfoTest - ***** Finished TC_001_UserInfoTest *****
+11:05:59.140 [main] INFO  testCases.TC_001_UserInfoTest - ***** Starting TC_002_OneCognizantPage *****
+11:05:59.140 [main] INFO  testCases.TC_001_UserInfoTest - Navigating to One Cognizant...
+11:05:59.314 [main] INFO  testCases.TC_001_UserInfoTest - One Cognizant Page is opened.
+11:05:59.315 [main] INFO  testCases.TC_001_UserInfoTest - ***** Finished TC_002_OneCognizantPage  *****
+11:05:59.322 [main] INFO  testCases.TC_001_UserInfoTest - ***** Starting TC_003_inputbox *****
+11:05:59.327 [main] INFO  testCases.TC_001_UserInfoTest - clicking on input box......
+11:06:08.250 [main] INFO  testCases.TC_001_UserInfoTest - input box clicked.
