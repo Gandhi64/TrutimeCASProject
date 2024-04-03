@@ -20,14 +20,10 @@ public class OneCognizantPage extends BasePage{
 	
 	@FindBy(xpath="//input[@id='oneC_searchAutoComplete']")
 	WebElement chromeInputBox;
-
-	@FindBy(id="oneC_searchAutoComplete")
-    WebElement chromeInput;
-	
-	
 	
 	@FindBy(xpath="//li[@class='searchTopBar']")
 	WebElement edgeSearch;
+	
 	@FindBy(xpath="//input[@id='oneCSearchTop']")
 	WebElement edgeInputBox;
 
@@ -43,19 +39,19 @@ public class OneCognizantPage extends BasePage{
 				driver.switchTo().window(w);
 			}
 		}
-	//	Thread.sleep(3000);
+	
 	
 		System.out.println("----------------------------------------");
    	
 		chromeInputBox.click();
 		
-    //   Thread.sleep(3000);
-		chromeInput.sendKeys("TruTime");
+    
+		chromeInputBox.sendKeys("TruTime");
 
 	}
 	
 	public void edgeMethod() throws InterruptedException {
-	//Thread.sleep(5000);
+	
 	   System.out.println("----------------------------------------");
 	
 	WebDriverWait wait =new WebDriverWait(driver,Duration.ofSeconds(10));
@@ -71,7 +67,7 @@ public class OneCognizantPage extends BasePage{
 	}
 	
 	edgeSearch.click();
-	//Thread.sleep(5000);
+	
 	wait.until(ExpectedConditions.visibilityOfElementLocated(By.id("oneCSearchTop")));
 	edgeInputBox.sendKeys("TruTime");
 	}

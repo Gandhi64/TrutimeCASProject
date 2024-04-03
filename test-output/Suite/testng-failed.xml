@@ -4,6 +4,74 @@
   <listeners>
     <listener class-name="utilities.ExtentReportManager"/>
   </listeners>
+  <test thread-count="5" name="chromeTest(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="testCases.TC_001_UserInfoTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="verifyUserInfoDisplay"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- testCases.TC_001_UserInfoTest -->
+      <class name="testCases.TC_006_VerifyCurrentDate">
+        <methods>
+          <include name="tearDown"/>
+          <include name="verifyPresentDate"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- testCases.TC_006_VerifyCurrentDate -->
+      <class name="testCases.TC_002_OneCognizantPage">
+        <methods>
+          <include name="tearDown"/>
+          <include name="navigateToOneC"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- testCases.TC_002_OneCognizantPage -->
+      <class name="testCases.TC_005_VerifyWeekDetails">
+        <methods>
+          <include name="tearDown"/>
+          <include name="comparingWeek"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- testCases.TC_005_VerifyWeekDetails -->
+      <class name="testCases.TC_003_InputBox">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+          <include name="enterInput"/>
+        </methods>
+      </class> <!-- testCases.TC_003_InputBox -->
+      <class name="testCases.TC_008_VerifyBackDate">
+        <methods>
+          <include name="tearDown"/>
+          <include name="verifyLast15Days"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- testCases.TC_008_VerifyBackDate -->
+      <class name="testCases.TC_004_ClickOnTruTime">
+        <methods>
+          <include name="tearDown"/>
+          <include name="verifyTruTime"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- testCases.TC_004_ClickOnTruTime -->
+      <class name="testCases.TC_009_VerifyLegends">
+        <methods>
+          <include name="tearDown"/>
+          <include name="verifyLast15Days"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- testCases.TC_009_VerifyLegends -->
+      <class name="testCases.TC_007_VerifyMonthAndYear">
+        <methods>
+          <include name="tearDown"/>
+          <include name="verifyPresentMonYear"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- testCases.TC_007_VerifyMonthAndYear -->
+    </classes>
+  </test> <!-- chromeTest(failed) -->
   <test thread-count="5" name="edgetest(failed)">
     <parameter name="browser" value="edge"/>
     <classes>
@@ -21,6 +89,13 @@
           <include name="setUp"/>
         </methods>
       </class> <!-- testCases.TC_006_VerifyCurrentDate -->
+      <class name="testCases.TC_002_OneCognizantPage">
+        <methods>
+          <include name="tearDown"/>
+          <include name="navigateToOneC"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- testCases.TC_002_OneCognizantPage -->
       <class name="testCases.TC_005_VerifyWeekDetails">
         <methods>
           <include name="tearDown"/>
@@ -28,6 +103,13 @@
           <include name="setUp"/>
         </methods>
       </class> <!-- testCases.TC_005_VerifyWeekDetails -->
+      <class name="testCases.TC_003_InputBox">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+          <include name="enterInput"/>
+        </methods>
+      </class> <!-- testCases.TC_003_InputBox -->
       <class name="testCases.TC_008_VerifyBackDate">
         <methods>
           <include name="tearDown"/>
@@ -35,6 +117,13 @@
           <include name="setUp"/>
         </methods>
       </class> <!-- testCases.TC_008_VerifyBackDate -->
+      <class name="testCases.TC_004_ClickOnTruTime">
+        <methods>
+          <include name="tearDown"/>
+          <include name="verifyTruTime"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- testCases.TC_004_ClickOnTruTime -->
       <class name="testCases.TC_009_VerifyLegends">
         <methods>
           <include name="tearDown"/>

@@ -85,6 +85,19 @@ public class ExtentReportManager implements ITestListener{
 		test.assignCategory(result.getMethod().getGroups());
 
 		test.log(Status.PASS, result.getName()+" got successfully executed");
+		try {
+
+			String imagePath = new BaseClass().captureScreen(result.getName());
+
+			test.addScreenCaptureFromPath(imagePath);
+
+		}catch(Exception e)
+
+		{
+
+			e.printStackTrace();
+
+		}
 
 	}
 

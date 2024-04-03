@@ -3423,3 +3423,244 @@
 [INFO ] 2024-04-01 08:58:27.930 [main] TC_001_UserInfoTest - ***** Starting TC_009_VerifyLegends *****
 [INFO ] 2024-04-01 08:58:27.977 [main] TC_001_UserInfoTest - Legends is displayed.
 [INFO ] 2024-04-01 08:58:27.977 [main] TC_001_UserInfoTest - ***** Finished TC_009_VerifyLegends *****
+[INFO ] 2024-04-02 10:56:44.533 [main] TC_001_UserInfoTest - ***** Starting TC_001_UserInfoTest *****
+[INFO ] 2024-04-02 11:03:35.149 [main] TC_001_UserInfoTest - ***** Starting TC_001_UserInfoTest *****
+[INFO ] 2024-04-02 11:03:54.705 [main] TC_001_UserInfoTest - user info is taken.
+[INFO ] 2024-04-02 11:03:54.705 [main] TC_001_UserInfoTest - ***** Finished TC_001_UserInfoTest *****
+[INFO ] 2024-04-02 11:03:54.740 [main] TC_001_UserInfoTest - ***** Starting TC_002_OneCognizantPage *****
+[INFO ] 2024-04-02 11:03:54.740 [main] TC_001_UserInfoTest - Navigating to One Cognizant...
+[INFO ] 2024-04-02 11:03:55.045 [main] TC_001_UserInfoTest - One Cognizant Page is opened.
+[INFO ] 2024-04-02 11:03:55.045 [main] TC_001_UserInfoTest - ***** Finished TC_002_OneCognizantPage  *****
+[INFO ] 2024-04-02 11:03:55.052 [main] TC_001_UserInfoTest - ***** Starting TC_003_inputbox *****
+[INFO ] 2024-04-02 11:03:55.089 [main] TC_001_UserInfoTest - clicking on input box......
+[INFO ] 2024-04-02 11:03:58.791 [main] TC_001_UserInfoTest - input box clicked.
+[INFO ] 2024-04-02 11:03:58.791 [main] TC_001_UserInfoTest - ***** Finished TC_003_inputbox *****
+[INFO ] 2024-04-02 11:03:58.796 [main] TC_001_UserInfoTest - ***** Starting TC_004_ClickOnTruTime *****
+[INFO ] 2024-04-02 11:03:58.796 [main] TC_001_UserInfoTest - clicking on true time...
+[INFO ] 2024-04-02 11:03:59.575 [main] TC_001_UserInfoTest - Trutime clicked.
+[INFO ] 2024-04-02 11:03:59.575 [main] TC_001_UserInfoTest - ***** Finished TC_004_ClickOnTruTime *****
+[INFO ] 2024-04-02 11:03:59.581 [main] TC_001_UserInfoTest - ***** Starting TC_005_VerifyWeekDetails *****
+[INFO ] 2024-04-02 11:04:01.842 [main] TC_001_UserInfoTest - Current week details matches with the system calendar
+[INFO ] 2024-04-02 11:04:01.842 [main] TC_001_UserInfoTest - ***** Finished TC_005_verifyWeekDetails *****
+[INFO ] 2024-04-02 11:04:01.846 [main] TC_001_UserInfoTest - ***** Starting TC_006_VerifyCurrentDate *****
+[INFO ] 2024-04-02 11:04:01.923 [main] TC_001_UserInfoTest - Current date is visible.
+[INFO ] 2024-04-02 11:04:01.924 [main] TC_001_UserInfoTest - ***** Finished TC_006_VerifyCurrentDate *****
+[INFO ] 2024-04-02 11:04:01.928 [main] TC_001_UserInfoTest - ***** Starting TC_007_VerifyMonthAndYear *****
+[INFO ] 2024-04-02 11:04:02.007 [main] TC_001_UserInfoTest - Current month and year are visible.
+[INFO ] 2024-04-02 11:04:02.007 [main] TC_001_UserInfoTest - ***** Finished TC_007_VerifyMonthAndYear *****
+[INFO ] 2024-04-02 11:04:02.010 [main] TC_001_UserInfoTest - ***** Starting TC_006_VerifyCurrentDate *****
+[INFO ] 2024-04-02 11:04:02.072 [main] TC_001_UserInfoTest - Last 15 days is displayed.
+[INFO ] 2024-04-02 11:04:02.072 [main] TC_001_UserInfoTest - ***** Finished TC_008_VerifyBackDate *****
+[INFO ] 2024-04-02 11:04:02.076 [main] TC_001_UserInfoTest - ***** Starting TC_009_VerifyLegends *****
+[INFO ] 2024-04-02 11:04:02.153 [main] TC_001_UserInfoTest - Legends is displayed.
+[INFO ] 2024-04-02 11:04:02.153 [main] TC_001_UserInfoTest - ***** Finished TC_009_VerifyLegends *****
+[INFO ] 2024-04-02 11:04:23.424 [main] TC_001_UserInfoTest - ***** Starting TC_001_UserInfoTest *****
+[INFO ] 2024-04-02 11:04:41.934 [main] TC_001_UserInfoTest - user info is taken.
+[INFO ] 2024-04-02 11:04:41.934 [main] TC_001_UserInfoTest - ***** Finished TC_001_UserInfoTest *****
+[INFO ] 2024-04-02 11:04:41.939 [main] TC_001_UserInfoTest - ***** Starting TC_002_OneCognizantPage *****
+[INFO ] 2024-04-02 11:04:41.939 [main] TC_001_UserInfoTest - Navigating to One Cognizant...
+[INFO ] 2024-04-02 11:04:42.123 [main] TC_001_UserInfoTest - One Cognizant Page is opened.
+[INFO ] 2024-04-02 11:04:42.123 [main] TC_001_UserInfoTest - ***** Finished TC_002_OneCognizantPage  *****
+[INFO ] 2024-04-02 11:04:42.128 [main] TC_001_UserInfoTest - ***** Starting TC_003_inputbox *****
+[INFO ] 2024-04-02 11:04:42.133 [main] TC_001_UserInfoTest - clicking on input box......
+[INFO ] 2024-04-02 11:04:44.904 [main] TC_001_UserInfoTest - input box clicked.
+[INFO ] 2024-04-02 11:04:44.905 [main] TC_001_UserInfoTest - ***** Finished TC_003_inputbox *****
+[INFO ] 2024-04-02 11:04:44.909 [main] TC_001_UserInfoTest - ***** Starting TC_004_ClickOnTruTime *****
+[INFO ] 2024-04-02 11:04:44.909 [main] TC_001_UserInfoTest - clicking on true time...
+[INFO ] 2024-04-02 11:04:45.682 [main] TC_001_UserInfoTest - Trutime clicked.
+[INFO ] 2024-04-02 11:04:45.682 [main] TC_001_UserInfoTest - ***** Finished TC_004_ClickOnTruTime *****
+[INFO ] 2024-04-02 11:04:45.687 [main] TC_001_UserInfoTest - ***** Starting TC_005_VerifyWeekDetails *****
+[INFO ] 2024-04-02 11:04:48.688 [main] TC_001_UserInfoTest - Current week details matches with the system calendar
+[INFO ] 2024-04-02 11:04:48.688 [main] TC_001_UserInfoTest - ***** Finished TC_005_verifyWeekDetails *****
+[INFO ] 2024-04-02 11:04:48.690 [main] TC_001_UserInfoTest - ***** Starting TC_006_VerifyCurrentDate *****
+[INFO ] 2024-04-02 11:04:48.768 [main] TC_001_UserInfoTest - Current date is visible.
+[INFO ] 2024-04-02 11:04:48.769 [main] TC_001_UserInfoTest - ***** Finished TC_006_VerifyCurrentDate *****
+[INFO ] 2024-04-02 11:04:48.772 [main] TC_001_UserInfoTest - ***** Starting TC_007_VerifyMonthAndYear *****
+[INFO ] 2024-04-02 11:04:48.844 [main] TC_001_UserInfoTest - Current month and year are visible.
+[INFO ] 2024-04-02 11:04:48.844 [main] TC_001_UserInfoTest - ***** Finished TC_007_VerifyMonthAndYear *****
+[INFO ] 2024-04-02 11:04:48.849 [main] TC_001_UserInfoTest - ***** Starting TC_006_VerifyCurrentDate *****
+[INFO ] 2024-04-02 11:04:48.925 [main] TC_001_UserInfoTest - Last 15 days is displayed.
+[INFO ] 2024-04-02 11:04:48.925 [main] TC_001_UserInfoTest - ***** Finished TC_008_VerifyBackDate *****
+[INFO ] 2024-04-02 11:04:48.928 [main] TC_001_UserInfoTest - ***** Starting TC_009_VerifyLegends *****
+[INFO ] 2024-04-02 11:04:49.014 [main] TC_001_UserInfoTest - Legends is displayed.
+[INFO ] 2024-04-02 11:04:49.014 [main] TC_001_UserInfoTest - ***** Finished TC_009_VerifyLegends *****
+[INFO ] 2024-04-02 13:39:06.114 [main] TC_001_UserInfoTest - ***** Starting TC_001_UserInfoTest *****
+[INFO ] 2024-04-02 13:39:29.624 [main] TC_001_UserInfoTest - user info is taken.
+[INFO ] 2024-04-02 13:39:29.625 [main] TC_001_UserInfoTest - ***** Finished TC_001_UserInfoTest *****
+[INFO ] 2024-04-02 13:39:29.636 [main] TC_001_UserInfoTest - ***** Starting TC_002_OneCognizantPage *****
+[INFO ] 2024-04-02 13:39:29.636 [main] TC_001_UserInfoTest - Navigating to One Cognizant...
+[INFO ] 2024-04-02 13:39:29.771 [main] TC_001_UserInfoTest - One Cognizant Page is opened.
+[INFO ] 2024-04-02 13:39:29.771 [main] TC_001_UserInfoTest - ***** Finished TC_002_OneCognizantPage  *****
+[INFO ] 2024-04-02 13:39:29.776 [main] TC_001_UserInfoTest - ***** Starting TC_003_inputbox *****
+[INFO ] 2024-04-02 13:39:29.800 [main] TC_001_UserInfoTest - clicking on input box......
+[INFO ] 2024-04-02 13:39:31.447 [main] TC_001_UserInfoTest - input box clicked.
+[INFO ] 2024-04-02 13:39:31.447 [main] TC_001_UserInfoTest - ***** Finished TC_003_inputbox *****
+[INFO ] 2024-04-02 13:39:31.449 [main] TC_001_UserInfoTest - ***** Starting TC_004_ClickOnTruTime *****
+[INFO ] 2024-04-02 13:39:31.449 [main] TC_001_UserInfoTest - clicking on true time...
+[INFO ] 2024-04-02 13:39:32.065 [main] TC_001_UserInfoTest - Trutime clicked.
+[INFO ] 2024-04-02 13:39:32.065 [main] TC_001_UserInfoTest - ***** Finished TC_004_ClickOnTruTime *****
+[INFO ] 2024-04-02 13:39:32.067 [main] TC_001_UserInfoTest - ***** Starting TC_005_VerifyWeekDetails *****
+[INFO ] 2024-04-02 13:39:34.126 [main] TC_001_UserInfoTest - Current week details matches with the system calendar
+[INFO ] 2024-04-02 13:39:34.126 [main] TC_001_UserInfoTest - ***** Finished TC_005_verifyWeekDetails *****
+[INFO ] 2024-04-02 13:39:34.127 [main] TC_001_UserInfoTest - ***** Starting TC_006_VerifyCurrentDate *****
+[INFO ] 2024-04-02 13:39:34.166 [main] TC_001_UserInfoTest - Current date is visible.
+[INFO ] 2024-04-02 13:39:34.166 [main] TC_001_UserInfoTest - ***** Finished TC_006_VerifyCurrentDate *****
+[INFO ] 2024-04-02 13:39:34.169 [main] TC_001_UserInfoTest - ***** Starting TC_007_VerifyMonthAndYear *****
+[INFO ] 2024-04-02 13:39:34.210 [main] TC_001_UserInfoTest - Current month and year are visible.
+[INFO ] 2024-04-02 13:39:34.210 [main] TC_001_UserInfoTest - ***** Finished TC_007_VerifyMonthAndYear *****
+[INFO ] 2024-04-02 13:39:34.213 [main] TC_001_UserInfoTest - ***** Starting TC_006_VerifyCurrentDate *****
+[INFO ] 2024-04-02 13:39:34.251 [main] TC_001_UserInfoTest - Last 15 days is displayed.
+[INFO ] 2024-04-02 13:39:34.251 [main] TC_001_UserInfoTest - ***** Finished TC_008_VerifyBackDate *****
+[INFO ] 2024-04-02 13:39:34.253 [main] TC_001_UserInfoTest - ***** Starting TC_009_VerifyLegends *****
+[INFO ] 2024-04-02 13:39:34.290 [main] TC_001_UserInfoTest - Legends is displayed.
+[INFO ] 2024-04-02 13:39:34.290 [main] TC_001_UserInfoTest - ***** Finished TC_009_VerifyLegends *****
+[INFO ] 2024-04-02 13:39:51.780 [main] TC_001_UserInfoTest - ***** Starting TC_001_UserInfoTest *****
+[INFO ] 2024-04-02 13:40:14.626 [main] TC_001_UserInfoTest - user info is taken.
+[INFO ] 2024-04-02 13:40:14.626 [main] TC_001_UserInfoTest - ***** Finished TC_001_UserInfoTest *****
+[INFO ] 2024-04-02 13:40:14.629 [main] TC_001_UserInfoTest - ***** Starting TC_002_OneCognizantPage *****
+[INFO ] 2024-04-02 13:40:14.629 [main] TC_001_UserInfoTest - Navigating to One Cognizant...
+[INFO ] 2024-04-02 13:40:14.777 [main] TC_001_UserInfoTest - One Cognizant Page is opened.
+[INFO ] 2024-04-02 13:40:14.777 [main] TC_001_UserInfoTest - ***** Finished TC_002_OneCognizantPage  *****
+[INFO ] 2024-04-02 13:40:14.780 [main] TC_001_UserInfoTest - ***** Starting TC_003_inputbox *****
+[INFO ] 2024-04-02 13:40:14.783 [main] TC_001_UserInfoTest - clicking on input box......
+[INFO ] 2024-04-02 13:40:16.534 [main] TC_001_UserInfoTest - input box clicked.
+[INFO ] 2024-04-02 13:40:16.534 [main] TC_001_UserInfoTest - ***** Finished TC_003_inputbox *****
+[INFO ] 2024-04-02 13:40:16.537 [main] TC_001_UserInfoTest - ***** Starting TC_004_ClickOnTruTime *****
+[INFO ] 2024-04-02 13:40:16.537 [main] TC_001_UserInfoTest - clicking on true time...
+[INFO ] 2024-04-02 13:40:17.200 [main] TC_001_UserInfoTest - Trutime clicked.
+[INFO ] 2024-04-02 13:40:17.200 [main] TC_001_UserInfoTest - ***** Finished TC_004_ClickOnTruTime *****
+[INFO ] 2024-04-02 13:40:17.202 [main] TC_001_UserInfoTest - ***** Starting TC_005_VerifyWeekDetails *****
+[INFO ] 2024-04-02 13:40:19.075 [main] TC_001_UserInfoTest - Current week details matches with the system calendar
+[INFO ] 2024-04-02 13:40:19.075 [main] TC_001_UserInfoTest - ***** Finished TC_005_verifyWeekDetails *****
+[INFO ] 2024-04-02 13:40:19.077 [main] TC_001_UserInfoTest - ***** Starting TC_006_VerifyCurrentDate *****
+[INFO ] 2024-04-02 13:40:19.118 [main] TC_001_UserInfoTest - Current date is visible.
+[INFO ] 2024-04-02 13:40:19.118 [main] TC_001_UserInfoTest - ***** Finished TC_006_VerifyCurrentDate *****
+[INFO ] 2024-04-02 13:40:19.121 [main] TC_001_UserInfoTest - ***** Starting TC_007_VerifyMonthAndYear *****
+[INFO ] 2024-04-02 13:40:19.159 [main] TC_001_UserInfoTest - Current month and year are visible.
+[INFO ] 2024-04-02 13:40:19.159 [main] TC_001_UserInfoTest - ***** Finished TC_007_VerifyMonthAndYear *****
+[INFO ] 2024-04-02 13:40:19.161 [main] TC_001_UserInfoTest - ***** Starting TC_006_VerifyCurrentDate *****
+[INFO ] 2024-04-02 13:40:19.199 [main] TC_001_UserInfoTest - Last 15 days is displayed.
+[INFO ] 2024-04-02 13:40:19.199 [main] TC_001_UserInfoTest - ***** Finished TC_008_VerifyBackDate *****
+[INFO ] 2024-04-02 13:40:19.200 [main] TC_001_UserInfoTest - ***** Starting TC_009_VerifyLegends *****
+[INFO ] 2024-04-02 13:40:19.236 [main] TC_001_UserInfoTest - Legends is displayed.
+[INFO ] 2024-04-02 13:40:19.236 [main] TC_001_UserInfoTest - ***** Finished TC_009_VerifyLegends *****
+[INFO ] 2024-04-02 14:08:57.475 [main] TC_001_UserInfoTest - ***** Starting TC_001_UserInfoTest *****
+[INFO ] 2024-04-02 14:09:20.556 [main] TC_001_UserInfoTest - user info is taken.
+[INFO ] 2024-04-02 14:09:20.557 [main] TC_001_UserInfoTest - ***** Finished TC_001_UserInfoTest *****
+[INFO ] 2024-04-02 14:09:20.838 [main] TC_001_UserInfoTest - ***** Starting TC_002_OneCognizantPage *****
+[INFO ] 2024-04-02 14:09:20.838 [main] TC_001_UserInfoTest - Navigating to One Cognizant...
+[INFO ] 2024-04-02 14:09:20.940 [main] TC_001_UserInfoTest - One Cognizant Page is opened.
+[INFO ] 2024-04-02 14:09:20.940 [main] TC_001_UserInfoTest - ***** Finished TC_002_OneCognizantPage  *****
+[INFO ] 2024-04-02 14:09:21.165 [main] TC_001_UserInfoTest - ***** Starting TC_003_inputbox *****
+[INFO ] 2024-04-02 14:09:21.178 [main] TC_001_UserInfoTest - clicking on input box......
+[INFO ] 2024-04-02 14:09:22.808 [main] TC_001_UserInfoTest - input box clicked.
+[INFO ] 2024-04-02 14:09:22.808 [main] TC_001_UserInfoTest - ***** Finished TC_003_inputbox *****
+[INFO ] 2024-04-02 14:09:23.016 [main] TC_001_UserInfoTest - ***** Starting TC_004_ClickOnTruTime *****
+[INFO ] 2024-04-02 14:09:23.017 [main] TC_001_UserInfoTest - clicking on true time...
+[INFO ] 2024-04-02 14:09:23.445 [main] TC_001_UserInfoTest - Trutime clicked.
+[INFO ] 2024-04-02 14:09:23.445 [main] TC_001_UserInfoTest - ***** Finished TC_004_ClickOnTruTime *****
+[INFO ] 2024-04-02 14:09:23.597 [main] TC_001_UserInfoTest - ***** Starting TC_005_VerifyWeekDetails *****
+[INFO ] 2024-04-02 14:09:25.957 [main] TC_001_UserInfoTest - Current week details matches with the system calendar
+[INFO ] 2024-04-02 14:09:25.957 [main] TC_001_UserInfoTest - ***** Finished TC_005_verifyWeekDetails *****
+[INFO ] 2024-04-02 14:09:26.056 [main] TC_001_UserInfoTest - ***** Starting TC_006_VerifyCurrentDate *****
+[INFO ] 2024-04-02 14:09:26.095 [main] TC_001_UserInfoTest - Current date is visible.
+[INFO ] 2024-04-02 14:09:26.095 [main] TC_001_UserInfoTest - ***** Finished TC_006_VerifyCurrentDate *****
+[INFO ] 2024-04-02 14:09:26.197 [main] TC_001_UserInfoTest - ***** Starting TC_007_VerifyMonthAndYear *****
+[INFO ] 2024-04-02 14:09:26.237 [main] TC_001_UserInfoTest - Current month and year are visible.
+[INFO ] 2024-04-02 14:09:26.237 [main] TC_001_UserInfoTest - ***** Finished TC_007_VerifyMonthAndYear *****
+[INFO ] 2024-04-02 14:09:26.338 [main] TC_001_UserInfoTest - ***** Starting TC_006_VerifyCurrentDate *****
+[INFO ] 2024-04-02 14:09:26.373 [main] TC_001_UserInfoTest - Last 15 days is displayed.
+[INFO ] 2024-04-02 14:09:26.373 [main] TC_001_UserInfoTest - ***** Finished TC_008_VerifyBackDate *****
+[INFO ] 2024-04-02 14:09:26.472 [main] TC_001_UserInfoTest - ***** Starting TC_009_VerifyLegends *****
+[INFO ] 2024-04-02 14:09:26.519 [main] TC_001_UserInfoTest - Legends is displayed.
+[INFO ] 2024-04-02 14:09:26.519 [main] TC_001_UserInfoTest - ***** Finished TC_009_VerifyLegends *****
+[INFO ] 2024-04-02 14:09:39.575 [main] TC_001_UserInfoTest - ***** Starting TC_001_UserInfoTest *****
+[INFO ] 2024-04-02 14:10:02.872 [main] TC_001_UserInfoTest - user info is taken.
+[INFO ] 2024-04-02 14:10:02.872 [main] TC_001_UserInfoTest - ***** Finished TC_001_UserInfoTest *****
+[INFO ] 2024-04-02 14:10:03.115 [main] TC_001_UserInfoTest - ***** Starting TC_002_OneCognizantPage *****
+[INFO ] 2024-04-02 14:10:03.116 [main] TC_001_UserInfoTest - Navigating to One Cognizant...
+[INFO ] 2024-04-02 14:10:03.255 [main] TC_001_UserInfoTest - One Cognizant Page is opened.
+[INFO ] 2024-04-02 14:10:03.255 [main] TC_001_UserInfoTest - ***** Finished TC_002_OneCognizantPage  *****
+[INFO ] 2024-04-02 14:10:03.482 [main] TC_001_UserInfoTest - ***** Starting TC_003_inputbox *****
+[INFO ] 2024-04-02 14:10:03.485 [main] TC_001_UserInfoTest - clicking on input box......
+[INFO ] 2024-04-02 14:10:05.134 [main] TC_001_UserInfoTest - input box clicked.
+[INFO ] 2024-04-02 14:10:05.134 [main] TC_001_UserInfoTest - ***** Finished TC_003_inputbox *****
+[INFO ] 2024-04-02 14:10:05.392 [main] TC_001_UserInfoTest - ***** Starting TC_004_ClickOnTruTime *****
+[INFO ] 2024-04-02 14:10:05.392 [main] TC_001_UserInfoTest - clicking on true time...
+[INFO ] 2024-04-02 14:10:05.778 [main] TC_001_UserInfoTest - Trutime clicked.
+[INFO ] 2024-04-02 14:10:05.778 [main] TC_001_UserInfoTest - ***** Finished TC_004_ClickOnTruTime *****
+[INFO ] 2024-04-02 14:10:05.942 [main] TC_001_UserInfoTest - ***** Starting TC_005_VerifyWeekDetails *****
+[INFO ] 2024-04-02 14:10:08.010 [main] TC_001_UserInfoTest - Current week details matches with the system calendar
+[INFO ] 2024-04-02 14:10:08.010 [main] TC_001_UserInfoTest - ***** Finished TC_005_verifyWeekDetails *****
+[INFO ] 2024-04-02 14:10:08.118 [main] TC_001_UserInfoTest - ***** Starting TC_006_VerifyCurrentDate *****
+[INFO ] 2024-04-02 14:10:08.167 [main] TC_001_UserInfoTest - Current date is visible.
+[INFO ] 2024-04-02 14:10:08.167 [main] TC_001_UserInfoTest - ***** Finished TC_006_VerifyCurrentDate *****
+[INFO ] 2024-04-02 14:10:08.285 [main] TC_001_UserInfoTest - ***** Starting TC_007_VerifyMonthAndYear *****
+[INFO ] 2024-04-02 14:10:08.320 [main] TC_001_UserInfoTest - Current month and year are visible.
+[INFO ] 2024-04-02 14:10:08.320 [main] TC_001_UserInfoTest - ***** Finished TC_007_VerifyMonthAndYear *****
+[INFO ] 2024-04-02 14:10:08.426 [main] TC_001_UserInfoTest - ***** Starting TC_006_VerifyCurrentDate *****
+[INFO ] 2024-04-02 14:10:08.463 [main] TC_001_UserInfoTest - Last 15 days is displayed.
+[INFO ] 2024-04-02 14:10:08.464 [main] TC_001_UserInfoTest - ***** Finished TC_008_VerifyBackDate *****
+[INFO ] 2024-04-02 14:10:08.583 [main] TC_001_UserInfoTest - ***** Starting TC_009_VerifyLegends *****
+[INFO ] 2024-04-02 14:10:08.623 [main] TC_001_UserInfoTest - Legends is displayed.
+[INFO ] 2024-04-02 14:10:08.623 [main] TC_001_UserInfoTest - ***** Finished TC_009_VerifyLegends *****
+[INFO ] 2024-04-02 15:12:24.659 [main] TC_001_UserInfoTest - ***** Starting TC_001_UserInfoTest *****
+[INFO ] 2024-04-02 15:12:47.805 [main] TC_001_UserInfoTest - user info is taken.
+[INFO ] 2024-04-02 15:12:47.806 [main] TC_001_UserInfoTest - ***** Finished TC_001_UserInfoTest *****
+[INFO ] 2024-04-02 15:12:48.102 [main] TC_001_UserInfoTest - ***** Starting TC_002_OneCognizantPage *****
+[INFO ] 2024-04-02 15:12:48.102 [main] TC_001_UserInfoTest - Navigating to One Cognizant...
+[INFO ] 2024-04-02 15:12:48.218 [main] TC_001_UserInfoTest - One Cognizant Page is opened.
+[INFO ] 2024-04-02 15:12:48.218 [main] TC_001_UserInfoTest - ***** Finished TC_002_OneCognizantPage  *****
+[INFO ] 2024-04-02 15:12:48.459 [main] TC_001_UserInfoTest - ***** Starting TC_003_inputbox *****
+[INFO ] 2024-04-02 15:12:48.466 [main] TC_001_UserInfoTest - clicking on input box......
+[INFO ] 2024-04-02 15:12:50.255 [main] TC_001_UserInfoTest - input box clicked.
+[INFO ] 2024-04-02 15:12:50.255 [main] TC_001_UserInfoTest - ***** Finished TC_003_inputbox *****
+[INFO ] 2024-04-02 15:12:50.460 [main] TC_001_UserInfoTest - ***** Starting TC_004_ClickOnTruTime *****
+[INFO ] 2024-04-02 15:12:50.460 [main] TC_001_UserInfoTest - clicking on true time...
+[INFO ] 2024-04-02 15:12:50.915 [main] TC_001_UserInfoTest - Trutime clicked.
+[INFO ] 2024-04-02 15:12:50.915 [main] TC_001_UserInfoTest - ***** Finished TC_004_ClickOnTruTime *****
+[INFO ] 2024-04-02 15:12:51.100 [main] TC_001_UserInfoTest - ***** Starting TC_005_VerifyWeekDetails *****
+[INFO ] 2024-04-02 15:12:52.836 [main] TC_001_UserInfoTest - Current week details matches with the system calendar
+[INFO ] 2024-04-02 15:12:52.836 [main] TC_001_UserInfoTest - ***** Finished TC_005_verifyWeekDetails *****
+[INFO ] 2024-04-02 15:12:52.934 [main] TC_001_UserInfoTest - ***** Starting TC_006_VerifyCurrentDate *****
+[INFO ] 2024-04-02 15:12:52.974 [main] TC_001_UserInfoTest - Current date is visible.
+[INFO ] 2024-04-02 15:12:52.974 [main] TC_001_UserInfoTest - ***** Finished TC_006_VerifyCurrentDate *****
+[INFO ] 2024-04-02 15:12:53.070 [main] TC_001_UserInfoTest - ***** Starting TC_007_VerifyMonthAndYear *****
+[INFO ] 2024-04-02 15:12:53.110 [main] TC_001_UserInfoTest - Current month and year are visible.
+[INFO ] 2024-04-02 15:12:53.110 [main] TC_001_UserInfoTest - ***** Finished TC_007_VerifyMonthAndYear *****
+[INFO ] 2024-04-02 15:12:53.227 [main] TC_001_UserInfoTest - ***** Starting TC_006_VerifyCurrentDate *****
+[INFO ] 2024-04-02 15:12:53.260 [main] TC_001_UserInfoTest - Last 15 days is displayed.
+[INFO ] 2024-04-02 15:12:53.260 [main] TC_001_UserInfoTest - ***** Finished TC_008_VerifyBackDate *****
+[INFO ] 2024-04-02 15:12:53.378 [main] TC_001_UserInfoTest - ***** Starting TC_009_VerifyLegends *****
+[INFO ] 2024-04-02 15:12:53.423 [main] TC_001_UserInfoTest - Legends is displayed.
+[INFO ] 2024-04-02 15:12:53.423 [main] TC_001_UserInfoTest - ***** Finished TC_009_VerifyLegends *****
+[INFO ] 2024-04-02 15:13:09.607 [main] TC_001_UserInfoTest - ***** Starting TC_001_UserInfoTest *****
+[INFO ] 2024-04-02 15:13:36.548 [main] TC_001_UserInfoTest - user info is taken.
+[INFO ] 2024-04-02 15:13:36.548 [main] TC_001_UserInfoTest - ***** Finished TC_001_UserInfoTest *****
+[INFO ] 2024-04-02 15:13:36.808 [main] TC_001_UserInfoTest - ***** Starting TC_002_OneCognizantPage *****
+[INFO ] 2024-04-02 15:13:36.809 [main] TC_001_UserInfoTest - Navigating to One Cognizant...
+[INFO ] 2024-04-02 15:13:36.928 [main] TC_001_UserInfoTest - One Cognizant Page is opened.
+[INFO ] 2024-04-02 15:13:36.929 [main] TC_001_UserInfoTest - ***** Finished TC_002_OneCognizantPage  *****
+[INFO ] 2024-04-02 15:13:37.162 [main] TC_001_UserInfoTest - ***** Starting TC_003_inputbox *****
+[INFO ] 2024-04-02 15:13:37.166 [main] TC_001_UserInfoTest - clicking on input box......
+[INFO ] 2024-04-02 15:13:38.997 [main] TC_001_UserInfoTest - input box clicked.
+[INFO ] 2024-04-02 15:13:38.997 [main] TC_001_UserInfoTest - ***** Finished TC_003_inputbox *****
+[INFO ] 2024-04-02 15:13:39.295 [main] TC_001_UserInfoTest - ***** Starting TC_004_ClickOnTruTime *****
+[INFO ] 2024-04-02 15:13:39.295 [main] TC_001_UserInfoTest - clicking on true time...
+[INFO ] 2024-04-02 15:13:39.693 [main] TC_001_UserInfoTest - Trutime clicked.
+[INFO ] 2024-04-02 15:13:39.693 [main] TC_001_UserInfoTest - ***** Finished TC_004_ClickOnTruTime *****
+[INFO ] 2024-04-02 15:13:39.899 [main] TC_001_UserInfoTest - ***** Starting TC_005_VerifyWeekDetails *****
+[INFO ] 2024-04-02 15:13:41.487 [main] TC_001_UserInfoTest - Current week details matches with the system calendar
+[INFO ] 2024-04-02 15:13:41.487 [main] TC_001_UserInfoTest - ***** Finished TC_005_verifyWeekDetails *****
+[INFO ] 2024-04-02 15:13:41.613 [main] TC_001_UserInfoTest - ***** Starting TC_006_VerifyCurrentDate *****
+[INFO ] 2024-04-02 15:13:41.663 [main] TC_001_UserInfoTest - Current date is visible.
+[INFO ] 2024-04-02 15:13:41.663 [main] TC_001_UserInfoTest - ***** Finished TC_006_VerifyCurrentDate *****
+[INFO ] 2024-04-02 15:13:41.805 [main] TC_001_UserInfoTest - ***** Starting TC_007_VerifyMonthAndYear *****
+[INFO ] 2024-04-02 15:13:41.845 [main] TC_001_UserInfoTest - Current month and year are visible.
+[INFO ] 2024-04-02 15:13:41.845 [main] TC_001_UserInfoTest - ***** Finished TC_007_VerifyMonthAndYear *****
+[INFO ] 2024-04-02 15:13:41.976 [main] TC_001_UserInfoTest - ***** Starting TC_006_VerifyCurrentDate *****
+[INFO ] 2024-04-02 15:13:42.020 [main] TC_001_UserInfoTest - Last 15 days is displayed.
+[INFO ] 2024-04-02 15:13:42.020 [main] TC_001_UserInfoTest - ***** Finished TC_008_VerifyBackDate *****
+[INFO ] 2024-04-02 15:13:42.158 [main] TC_001_UserInfoTest - ***** Starting TC_009_VerifyLegends *****
+[INFO ] 2024-04-02 15:13:42.212 [main] TC_001_UserInfoTest - Legends is displayed.
+[INFO ] 2024-04-02 15:13:42.212 [main] TC_001_UserInfoTest - ***** Finished TC_009_VerifyLegends *****
